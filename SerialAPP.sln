@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SerialAPP", "SerialAPP\SerialAPP.csproj", "{05360F75-E062-4AC3-BB6E-0DCC71CE80C9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{05360F75-E062-4AC3-BB6E-0DCC71CE80C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05360F75-E062-4AC3-BB6E-0DCC71CE80C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05360F75-E062-4AC3-BB6E-0DCC71CE80C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05360F75-E062-4AC3-BB6E-0DCC71CE80C9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EC7A9D31-8045-4F58-8412-F33CAFCE5A0D}
+	EndGlobalSection
+EndGlobal
